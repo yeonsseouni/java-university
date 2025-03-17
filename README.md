@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://seoyeoncapsule-render.vercel.app/api?type=wave)
